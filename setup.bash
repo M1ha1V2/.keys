@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-KEY_URL="https://raw.githubusercontent.com/NaysKutzu/.keys/refs/heads/main/mythical.pub"
+KEY_URL="https://raw.githubusercontent.com/M1ha1V2/.keys/refs/heads/main/beleaua.pub"
 
 # Read user from TTY (curl | bash safe)
 read -rp "Install SSH key for user [root]: " TARGET_USER </dev/tty || true
